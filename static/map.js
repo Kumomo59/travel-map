@@ -1,4 +1,4 @@
-const map = L.map("map").setView([35.681, 139.767], 12);
+const map = L.map("map").setView([37.5620767, 126.9789844], 12);
 
 // 地図タイル
 L.tileLayer(
